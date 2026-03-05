@@ -1,5 +1,4 @@
-# PS_3Q-Asset
-Repositório que será utilizado somente para envio dos arquivos do processo seletivo da 3Q Asset.
+# Analise fundo 3Q FIA
 
 Prezados, Boa tarde.
 Para que o código rode naturalmente, sem maiores problemas, é necessário que baixem os códigos que criam as planilhas em CSV primeiro.
